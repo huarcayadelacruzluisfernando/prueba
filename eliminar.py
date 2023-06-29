@@ -1,4 +1,4 @@
 def eliminar_elemento(elemento):
-    print("se elimino el elemento!!")
+    print("elemento eliminado!!")
 
-eliminar_elemento("hola")
+eliminar_elemento("elemento a eliminar")
